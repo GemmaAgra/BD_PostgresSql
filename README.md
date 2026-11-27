@@ -18,5 +18,5 @@ Contiene el historial académico de sus alumnos.
 ## Ejecución Rápida
 ```bash
 # Ejecutar el análisis completo
-python dataframes.py
+python main.py
 ```
